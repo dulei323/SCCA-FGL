@@ -7,7 +7,7 @@ Run run_example.mat to get the result.
 Paper: 
 
 Detecting Genetic Associations with Brain Imaging Phenotypes in
-Alzheimer’s Disease via A Novel Structured SCCA Approach, submitted to Neuroimage.
+Alzheimer’s Disease via A Novel Structured SCCA Approach, submitted.
 
 Please cite the following paper if you use the code in your research.
 
